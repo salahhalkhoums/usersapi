@@ -1,0 +1,7 @@
+com.example.usersapi
+com.example.usersapi.aspect
+com.example.usersapi.controller
+com.example.usersapi.exception
+com.example.usersapi.model
+com.example.usersapi.repository
+com.example.usersapi.service
